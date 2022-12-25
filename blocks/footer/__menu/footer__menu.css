@@ -1,0 +1,12 @@
+.footer__menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 650px) {
+  .footer__menu {
+    flex-direction:column;
+    justify-content: space-between;
+}
+  }

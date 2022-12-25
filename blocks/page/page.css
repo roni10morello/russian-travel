@@ -1,0 +1,30 @@
+.page {
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 100vh;
+  background-color: #2A2C2F;
+  margin: 0 auto;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 1024px) {
+ .page {
+    max-width: 1024px;
+ }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+     max-width: 768px;
+  }
+ }
+
+ @media screen and (max-width: 650px) {
+  .page {
+     max-width: 320px;
+  }
+ }
