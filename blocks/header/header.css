@@ -26,35 +26,3 @@
     margin-top: 16px;
   }
  }
-
-
-
-
-
-/*
-@media screen and (max-width: 1280px) {
-  .header {
-    max-width: calc(100% - (48px*2));
-  }
- }
-
- @media screen and (max-width: 1024px) {
-  .header {
-    max-width: calc(100% - (48px*2));
-    margin-bottom: 48px;
-  }
- }
-
- @media screen and (max-width: 768px) {
-  .header {
-    max-width: calc(100% - (24px*2));
-  }
- }
-
- @media screen and (max-width: 650px) {
-  .header {
-    max-width: calc(100% - (16px*2));
-    margin-top: 16px;
-  }
- }
-*/
