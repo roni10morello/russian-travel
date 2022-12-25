@@ -1,5 +1,3 @@
-# russian-travel
-
 Проектная работа №3 - Путешествие по России
 
 https://roni10morello.github.io/russian-travel/index.html
